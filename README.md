@@ -39,7 +39,7 @@ npm start
 
 1. Open your browser and visit [http://localhost:3000](http://localhost:3000) to access the Connect Me application.
 
-2. Create an account or log in if you already have one.
+2. Type your username and room number you want to enter.
 
 3. Start chatting with other users in real-time.
 
